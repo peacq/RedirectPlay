@@ -1,0 +1,6 @@
+{
+    "name": "peacq/RedirectPlay",
+    "require": {
+        "nrk/predis": "0.8.*"
+    }
+}
